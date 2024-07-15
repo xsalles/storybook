@@ -6,4 +6,5 @@ export const Container = styled.button`
     box-sizing: border-box;
     overflow: hidden;
     border: 1px solid black;
+    cursor: pointer;
 `
