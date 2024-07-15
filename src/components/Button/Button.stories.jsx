@@ -2,7 +2,7 @@ import Button from "./index";
 
 
 export default {
-  title: "Buttons/Button",
+  title: "Storybook/Button",
   component: Button,
   argTypes: {
     backgroundColor: { control: "color" },
